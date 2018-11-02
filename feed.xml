@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+	<title>This Sounds Terrible</title>
+	<link>https://thissoundsterrible.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://thissoundsterrible.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<copyright>Devin Shishwimm</copyright>
+	<itunes:subtitle>Sounds that are terrible.</itunes:subtitle>
+	<itunes:author>Devin Shishwimm</itunes:author>
+	<itunes:summary>Slow down! Life is going too fast. Take a moment to listen to some sounds that you probably won't like because they are terrible.</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+
+	<description>Slow down! Life is going too fast. Take a moment to listen to some sounds that you probably won't like because they are terrible.</description>
+	<itunes:owner>
+	<itunes:name>Devin Shishwimm</itunes:name>
+	<itunes:email>yumology@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://thissoundsterrible.github.io/tst.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Places &amp; Travel"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Ep 4: Frosty Feet</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    		<itunes:subtitle>Let's walk shall we?</itunes:subtitle>
+			<itunes:summary><![CDATA[Let's walk shall we?]]></itunes:summary>
+			<description><![CDATA[Let's walk shall we?]]></description>
+
+			<enclosure url="https://thissoundsterrible.github.io/ep4.mp3" length="36923394" type="audio/mpeg" />
+			<itunes:duration>31:29</itunes:duration>
+
+        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep4.mp3</guid>
+       		<pubDate>1 Nov 2018 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	
+		<item>
+			<title>Ep 3: Man Ruining Road</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    		<itunes:subtitle>What are tools for?</itunes:subtitle>
+			<itunes:summary><![CDATA[What are tools for?]]></itunes:summary>
+			<description><![CDATA[What are tools for?]]></description>
+
+			<enclosure url="https://thissoundsterrible.github.io/ep3.mp3" length="29416429" type="audio/mpeg" />
+						<itunes:duration>30:34</itunes:duration>
+
+        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep3.mp3</guid>
+       		<pubDate>1 Oct 2018 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	
+		<item>
+			<title>Ep 2: The Water</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    		<itunes:subtitle>It's coming down. It's falling.</itunes:subtitle>
+			<itunes:summary><![CDATA[It's coming down. It's falling.]]></itunes:summary>
+			<description><![CDATA[It's coming down. It's falling.]]></description>
+
+			<enclosure url="https://thissoundsterrible.github.io/ep2.mp3" length="31010108" type="audio/mpeg" />
+			<itunes:duration>32:14</itunes:duration>
+
+        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep2.mp3</guid>
+       		<pubDate>1 Sep 2018 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	
+		<item>
+			<title>Ep 1: Chopping Grass</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    		<itunes:subtitle>Let's mow.</itunes:subtitle>
+			<itunes:summary><![CDATA[Let's mow.]]></itunes:summary>
+			<description><![CDATA[Let's mow.]]></description>
+
+			<enclosure url="https://thissoundsterrible.github.io/ep1.mp3" length="30052563" type="audio/mpeg" />
+			<itunes:duration>31:14</itunes:duration>
+
+        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep1.mp3</guid>
+       		<pubDate>1 Aug 2018 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	
+</channel>
+</rss>
