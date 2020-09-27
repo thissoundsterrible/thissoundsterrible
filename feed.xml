@@ -22,64 +22,90 @@
 	</itunes:category>
 	<itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>Ep 7: Cooking</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    			<itunes:subtitle>Let's walk shall we?</itunes:subtitle>
+			<itunes:summary><![CDATA[Let's walk shall we?]]></itunes:summary>
+			<description><![CDATA[This episode has artwork in both rss and mp3 but are different images.]]></description>
+			<itunes:image href="https://thissoundsterrible.github.io/tst.png"/>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep7.mp3" length="11357667" type="audio/mpeg" />
+			<itunes:duration>11:45</itunes:duration>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep7.mp3</guid>
+       			<pubDate>27 Sept 2020 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>	
+		<item>
+			<title>Ep 6: Ocean Stroll</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    			<itunes:subtitle>Let's walk shall we?</itunes:subtitle>
+			<itunes:summary><![CDATA[Let's walk shall we?]]></itunes:summary>
+			<description><![CDATA[This episode has artwork in the rss but not the mp3.]]></description>
+			<itunes:image href="https://thissoundsterrible.github.io/ep6-img.jpg"/>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep6.mp3" length="11849187" type="audio/mpeg" />
+			<itunes:duration>12:16</itunes:duration>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep6.mp3</guid>
+       			<pubDate>27 Sept 2020 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>	
+		<item>
+			<title>Ep 5: Machine</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    			<itunes:subtitle>Turn it on.</itunes:subtitle>
+			<itunes:summary><![CDATA[Turn it on.]]></itunes:summary>
+			<description><![CDATA[This episode has episode artwork in the mp3 but none in the rss feed.]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep5.mp3" length="9872658" type="audio/mpeg" />
+			<itunes:duration>10:12</itunes:duration>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep5.mp3</guid>
+       			<pubDate>27 Sept 2020 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>	
+		<item>
 			<title>Ep 4: Frosty Feet</title>
 			<itunes:author>Devin Shishwimm</itunes:author>
-    		<itunes:subtitle>Let's walk shall we?</itunes:subtitle>
+    			<itunes:subtitle>Let's walk shall we?</itunes:subtitle>
 			<itunes:summary><![CDATA[Let's walk shall we?]]></itunes:summary>
 			<description><![CDATA[Let's walk shall we?]]></description>
-
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep4.mp3" length="36923394" type="audio/mpeg" />
 			<itunes:duration>31:29</itunes:duration>
-
-        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep4.mp3</guid>
-       		<pubDate>1 Nov 2018 05:00:00 -0700</pubDate>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep4.mp3</guid>
+       			<pubDate>1 Nov 2018 05:00:00 -0700</pubDate>
 			<itunes:explicit>no</itunes:explicit>
 		</item>
-	
 		<item>
 			<title>Ep 3: Man Ruining Road</title>
 			<itunes:author>Devin Shishwimm</itunes:author>
-    		<itunes:subtitle>What are tools for?</itunes:subtitle>
+			<itunes:subtitle>What are tools for?</itunes:subtitle>
 			<itunes:summary><![CDATA[What are tools for?]]></itunes:summary>
 			<description><![CDATA[What are tools for?]]></description>
-
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep3.mp3" length="29416429" type="audio/mpeg" />
-						<itunes:duration>30:34</itunes:duration>
-
-        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep3.mp3</guid>
-       		<pubDate>1 Oct 2018 05:00:00 -0700</pubDate>
+			<itunes:duration>30:34</itunes:duration>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep3.mp3</guid>
+       			<pubDate>1 Oct 2018 05:00:00 -0700</pubDate>
 			<itunes:explicit>no</itunes:explicit>
 		</item>
-	
 		<item>
 			<title>Ep 2: The Water</title>
 			<itunes:author>Devin Shishwimm</itunes:author>
-    		<itunes:subtitle>It's coming down. It's falling.</itunes:subtitle>
+    			<itunes:subtitle>It's coming down. It's falling.</itunes:subtitle>
 			<itunes:summary><![CDATA[It's coming down. It's falling.]]></itunes:summary>
 			<description><![CDATA[It's coming down. It's falling.]]></description>
-
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep2.mp3" length="31010108" type="audio/mpeg" />
 			<itunes:duration>32:14</itunes:duration>
-
-        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep2.mp3</guid>
-       		<pubDate>1 Sep 2018 05:00:00 -0700</pubDate>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep2.mp3</guid>
+       			<pubDate>1 Sep 2018 05:00:00 -0700</pubDate>
 			<itunes:explicit>no</itunes:explicit>
 		</item>
-	
 		<item>
 			<title>Ep 1: Chopping Grass</title>
 			<itunes:author>Devin Shishwimm</itunes:author>
-    		<itunes:subtitle>Let's mow.</itunes:subtitle>
+    			<itunes:subtitle>Let's mow.</itunes:subtitle>
 			<itunes:summary><![CDATA[Let's mow.]]></itunes:summary>
 			<description><![CDATA[Let's mow.]]></description>
-
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep1.mp3" length="30052563" type="audio/mpeg" />
 			<itunes:duration>31:14</itunes:duration>
-
-        	<guid isPermaLink="false">https://thissoundsterrible.github.io/ep1.mp3</guid>
-       		<pubDate>1 Aug 2018 05:00:00 -0700</pubDate>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep1.mp3</guid>
+       			<pubDate>1 Aug 2018 05:00:00 -0700</pubDate>
 			<itunes:explicit>no</itunes:explicit>
 		</item>
-	
 </channel>
 </rss>
