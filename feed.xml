@@ -10,7 +10,6 @@
 	<itunes:author>Devin Shishwimm</itunes:author>
 	<itunes:summary>Slow down! Life is going too fast. Take a moment to listen to some sounds that you probably won't like because they are terrible.</itunes:summary>
 	<itunes:keywords>sounds</itunes:keywords>
-
 	<description>Slow down! Life is going too fast. Take a moment to listen to some sounds that you probably won't like because they are terrible.</description>
 	<itunes:owner>
 	<itunes:name>Devin Shishwimm</itunes:name>
@@ -21,6 +20,19 @@
 		<itunes:category text="Places &amp; Travel"/>
 	</itunes:category>
 	<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Ep 8: Train</title>
+			<itunes:author>Devin Shishwimm</itunes:author>
+    			<itunes:subtitle>Let's ride shall we?</itunes:subtitle>
+			<itunes:summary><![CDATA[Let's ride shall we?]]></itunes:summary>
+			<description><![CDATA[This episode has artwork in both rss and mp3 but are different images. Neither being the show's artwork.]]></description>
+			<itunes:image href="https://thissoundsterrible.github.io/ep8-img2.png"/>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/thissoundsterrible.github.io/ep8.mp3" length="11136566" type="audio/mpeg" />
+			<itunes:duration>11:31</itunes:duration>
+        		<guid isPermaLink="false">https://thissoundsterrible.github.io/ep8.mp3</guid>
+       			<pubDate>27 Sept 2020 05:00:00 -0700</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+		</item>	
 		<item>
 			<title>Ep 7: Cooking</title>
 			<itunes:author>Devin Shishwimm</itunes:author>
